@@ -1,0 +1,7 @@
+MakeupStore\model\service\OrderServiceImplTest.class
+MakeupStore\web\CartUpdateCommandTest.class
+MakeupStore\web\LogOutCommandTest.class
+MakeupStore\model\service\HttpSessionCartServiceTest.class
+MakeupStore\web\CartAddCommandTest.class
+MakeupStore\web\ProductListCommandTest.class
+MakeupStore\web\CartDeleteCommandTest.class
